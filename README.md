@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 
 <!--
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Matrix](https://raw.githubusercontent.com/tarrex/tarrex/master/images/matrix.svg)](https://tarrex.com)
