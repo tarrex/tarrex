@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 -->
 
 [![Matrix](https://raw.githubusercontent.com/tarrex/tarrex/master/images/matrix.svg)](https://tarrex.com)
+
+<a href="https://github.com/tarrex">
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=tarrex&show_icons=true&count_private=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/tarrex">
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarrex&layout=compact&theme=chartreuse-dark" />
+</a>
